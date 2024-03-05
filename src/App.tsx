@@ -5,6 +5,11 @@ import "./App.css";
 function App() {
   return (
     <>
+      <img
+        src="img\uniti-per-sperone.jpeg"
+        alt=""
+        style={{ width: "400px", height: "400px" }}
+      />
       <h1>Giorgio Sancarlo</h1>
 
       <p className="read-the-docs">
